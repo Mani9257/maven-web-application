@@ -29,6 +29,5 @@ steps:
     effectivePomSkip: false
     sonarQubeRunAnalysis: true
     sqMavenPluginVersionChoice: 'latest'
-    testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
 
